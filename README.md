@@ -1,4 +1,4 @@
-# TLS Checker
+# TLS CheckerS
 
 TLS Checker is a Go command-line tool that checks hosts for DNS resolution, TLS connectivity, certificate details, ALPN negotiation, HTTP/2 readiness, and (optionally) ASN information. It reads targets from a text file and checks them concurrently.
 
